@@ -42,3 +42,8 @@ poem_index["Love Is"] = love_is_tokens
 with open('curated_poems/54_Holiness_Of_The_Heart_tokenised.json', 'r', encoding='utf-8') as f:
     holiness_tokens = json.load(f)
 poem_index["Holiness Of The Heart"] = holiness_tokens
+
+# Load Elixir Of Love
+with open('curated_poems/55_Elixir_Of_Love_tokenised.json', 'r', encoding='utf-8') as f:
+    elixir_tokens = json.load(f)
+poem_index["Elixir Of Love"] = elixir_tokens
