@@ -96,3 +96,8 @@ poem_index["Human Amnesia"] = human_amnesia_tokens
 with open('curated_poems/99_Kaleidoscope_Memories_tokenised.json', 'r', encoding='utf-8') as f:
     kaleidoscope_memories_tokens = json.load(f)
 poem_index["Kaleidoscope Memories"] = kaleidoscope_memories_tokens
+
+with open('curated_poems/100_Calibrate_tokenised.json', 'r', encoding='utf-8') as f:
+    calibrate_tokens = json.load(f)
+poem_index["Calibrate (A PoêManifesto)"] = calibrate_tokens
+
