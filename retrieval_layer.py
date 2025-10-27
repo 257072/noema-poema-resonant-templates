@@ -32,3 +32,9 @@ with open('curated_poems/08_Forgiveness_tokenised.json', 'r', encoding='utf-8') 
 
 # Add to the retrieval index
 poem_index["Forgiveness"] = forgiveness_tokens
+
+# Load Love Is
+with open('curated_poems/09_Love_Is_tokenised.json', 'r', encoding='utf-8') as f:
+    love_is_tokens = json.load(f)
+poem_index["Love Is"] = love_is_tokens
+
