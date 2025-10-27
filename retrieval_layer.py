@@ -81,3 +81,6 @@ with open('curated_poems/91_Liberty_Moon_tokenised.json', 'r', encoding='utf-8')
     liberty_moon_tokens = json.load(f)
 poem_index["Liberty Moon"] = liberty_moon_tokens
 
+with open('curated_poems/93_Do_What_The_Robot_Says_tokenised.json', 'r', encoding='utf-8') as f:
+    robot_says_tokens = json.load(f)
+poem_index["Do What The Robot Says"] = robot_says_tokens
