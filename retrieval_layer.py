@@ -92,3 +92,7 @@ poem_index["Heart Supported Mind"] = heart_supported_mind_tokens
 with open('curated_poems/97_Human_Amnesia_tokenised.json', 'r', encoding='utf-8') as f:
     human_amnesia_tokens = json.load(f)
 poem_index["Human Amnesia"] = human_amnesia_tokens
+
+with open('curated_poems/99_Kaleidoscope_Memories_tokenised.json', 'r', encoding='utf-8') as f:
+    kaleidoscope_memories_tokens = json.load(f)
+poem_index["Kaleidoscope Memories"] = kaleidoscope_memories_tokens
