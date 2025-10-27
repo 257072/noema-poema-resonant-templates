@@ -38,3 +38,7 @@ with open('curated_poems/09_Love_Is_tokenised.json', 'r', encoding='utf-8') as f
     love_is_tokens = json.load(f)
 poem_index["Love Is"] = love_is_tokens
 
+# Load Holiness Of The Heart
+with open('curated_poems/54_Holiness_Of_The_Heart_tokenised.json', 'r', encoding='utf-8') as f:
+    holiness_tokens = json.load(f)
+poem_index["Holiness Of The Heart"] = holiness_tokens
