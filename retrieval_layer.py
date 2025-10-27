@@ -23,3 +23,12 @@ def get_poem(title):
 if __name__ == "__main__":
     poem_data = get_poem("6 - Angels on Earth")
     print(poem_data)
+
+import json
+
+# Load Forgiveness poem tokens
+with open('curated_poems/08_Forgiveness_tokenised.json', 'r', encoding='utf-8') as f:
+    forgiveness_tokens = json.load(f)
+
+# Add to the retrieval index
+poem_index["Forgiveness"] = forgiveness_tokens
