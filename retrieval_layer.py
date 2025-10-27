@@ -68,3 +68,8 @@ with open('curated_poems/72_The_True_Role_Of_The_Ego_tokenised.json', 'r', encod
     ego_tokens = json.load(f)
 poem_index["The True Role Of The Ego"] = ego_tokens
 
+# Load Creatrix
+with open('curated_poems/73_Creatrix_tokenised.json', 'r', encoding='utf-8') as f:
+    creatrix_tokens = json.load(f)
+poem_index["Creatrix"] = creatrix_tokens
+
