@@ -62,3 +62,9 @@ poem_index["Golden Nuggets"] = golden_nuggets_tokens
 with open('curated_poems/68_Inversion_tokenised.json', 'r', encoding='utf-8') as f:
     inversion_tokens = json.load(f)
 poem_index["Inversion"] = inversion_tokens
+
+# Load The True Role Of The Ego
+with open('curated_poems/72_The_True_Role_Of_The_Ego_tokenised.json', 'r', encoding='utf-8') as f:
+    ego_tokens = json.load(f)
+poem_index["The True Role Of The Ego"] = ego_tokens
+
