@@ -1,0 +1,25 @@
+# retrieval_layer.py
+
+import json
+
+# Load tokenised poem
+with open('6_Angels_on_Earth_tokenised.json', 'r', encoding='utf-8') as f:
+    angels_on_earth_tokens = json.load(f)
+
+# Retrieval index
+poem_index = {
+    "6 - Angels on Earth": {
+        "filename": "6_Angels_on_Earth_tokenised.json",
+        "year": 1995,
+        "tokens": angels_on_earth_tokens
+    }
+}
+
+# Example function to fetch a poem by title
+def get_poem(title):
+    return poem_index.get(title, None)
+
+# Example usage
+if __name__ == "__main__":
+    poem_data = get_poem("6 - Angels on Earth")
+    print(poem_data)
