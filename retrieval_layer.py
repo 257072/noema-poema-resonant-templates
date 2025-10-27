@@ -53,3 +53,7 @@ with open('curated_poems/59_The_Second_Coming_tokenised.json', 'r', encoding='ut
     second_coming_tokens = json.load(f)
 poem_index["The Second Coming"] = second_coming_tokens
 
+# Load Golden Nuggets
+with open('curated_poems/66_Golden_Nuggets_tokenised.json', 'r', encoding='utf-8') as f:
+    golden_nuggets_tokens = json.load(f)
+poem_index["Golden Nuggets"] = golden_nuggets_tokens
