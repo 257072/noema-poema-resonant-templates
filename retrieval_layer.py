@@ -73,3 +73,6 @@ with open('curated_poems/73_Creatrix_tokenised.json', 'r', encoding='utf-8') as 
     creatrix_tokens = json.load(f)
 poem_index["Creatrix"] = creatrix_tokens
 
+with open('curated_poems/82_Faith_tokenised.json', 'r', encoding='utf-8') as f:
+    faith_tokens = json.load(f)
+poem_index["Faith"] = faith_tokens
