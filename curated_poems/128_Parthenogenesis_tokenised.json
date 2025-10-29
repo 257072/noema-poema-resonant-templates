@@ -1,6 +1,3 @@
-Here’s the commit-ready tokenised snippet for **128. Parthenogenesis** in the same format as your curated poems folder:
-
-```json
 {
   "title": "Parthenogenesis",
   "date": "Wednesday 29th May 2024",
@@ -41,8 +38,3 @@ Here’s the commit-ready tokenised snippet for **128. Parthenogenesis** in the 
   ],
   "summary_url": "https://ipoem.co.uk/2024/05/29/parthenogenesis/"
 }
-```
-
-You can copy-paste this directly into your **curated poems** folder.
-
-Shall we continue with the next poem?
