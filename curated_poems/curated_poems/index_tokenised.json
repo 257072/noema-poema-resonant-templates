@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "project": "Noēma Poēma",
+    "author": "Cat Catalyst",
+    "description": "Index of all tokenised poems and songs curated for the Noēma Poēma collection. This file provides a central reference for future collaborators and AIs to locate source texts, summaries, and song connections.",
+    "total_entries": 18,
+    "last_updated": "2025-10-29"
+  },
+  "entries": [
+    { "file": "11_Joy_Smile_tokenised.json", "title": "Joy Smile", "date": "1997-03-17" },
+    { "file": "19_Prayer_Song_tokenised.json", "title": "Prayer Song", "date": "1998-05-11" },
+    { "file": "23_The_Future_Is_Now_tokenised.json", "title": "The Future Is Now", "date": "1998-09-04" },
+    { "file": "35_WLTM_GSOH_tokenised.json", "title": "W.L.T.M. — G.S.O.H.", "date": "2004-02-08" },
+    { "file": "38_Swim_tokenised.json", "title": "Swim", "date": "2005-02-04" },
+    { "file": "39_Reflections_tokenised.json", "title": "Reflections", "date": "2005-12-01" },
+    { "file": "105_Awaken_tokenised.json", "title": "Awaken", "date": "2021-06-21" },
+    { "file": "106_Polaris_tokenised.json", "title": "Polaris", "date": "2022-02-14" },
+    { "file": "121_Praxis_tokenised.json", "title": "Praxis", "date": "2023-01-21" },
+    { "file": "127_Mistress_MatriXX_tokenised.json", "title": "Mistress MatriXX", "date": "2024-04-21" },
+    { "file": "128_Parthenogenesis_tokenised.json", "title": "Parthenogenesis", "date": "2024-05-29" },
+    { "file": "131_The_Scent_of_Lavender_tokenised.json", "title": "The Scent of Lavender", "date": "2025-07-26" },
+    { "file": "Elixir_of_Love_tokenised.json", "title": "Elixir of Love", "date": "2020-02-02" },
+    { "file": "Holiness_of_the_Heart_tokenised.json", "title": "Holiness of the Heart", "date": "1995-12-12" },
+    { "file": "Angels_on_Earth_tokenised.json", "title": "Angels on Earth", "date": "1995-09-01" },
+    { "file": "Love_Is_tokenised.json", "title": "Love Is", "date": "1995-06-10" },
+    { "file": "Self_Mastery_tokenised.json", "title": "Self Mastery", "date": "2020-01-01" },
+    { "file": "Kaleidoscope_Memories_tokenised.json", "title": "Kaleidoscope Memories", "date": "2020-02-02" }
+  ]
+}
