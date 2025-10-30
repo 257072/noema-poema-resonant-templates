@@ -1,0 +1,134 @@
+{
+  "project_name": "Cat Catalyst Music & Poetry",
+  "description": "Curated repository of Cat Catalyst's published poetry and music, fully annotated with summaries, Bandcamp links, YouTube release metadata, genres, and RCA art/tech showcase information.",
+  "rca_showcase": "https://rca-research-programmes.rca.ac.uk/projects/cat-miller-album-amicorum",
+  "youtube_playlist": "https://www.youtube.com/playlist?list=OLAK5uy_lWvAmaQ_ewtXERd4Ia3DAQivFAlKwRq6s",
+  "albums": [
+    {
+      "title": "Love Made Visible",
+      "type": "LP",
+      "genre": "Blues/Jazz",
+      "songs": [
+        {
+          "title": "Love Is",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/2021/06/21/awaken/",
+          "bandcamp_url": ""
+        },
+        {
+          "title": "Awakened",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/2021/06/21/awaken/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/awakened-single"
+        },
+        {
+          "title": "Angels on Earth",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/angels-on-earth-single"
+        },
+        {
+          "title": "Polaris",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/2022/02/14/polaris/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/polaris-single"
+        },
+        {
+          "title": "Holiness of the Heart",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/holiness-of-the-heart-single"
+        },
+        {
+          "title": "WLTM GSOH",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/2004/02/08/wltm-gsoh/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/wltm-gsoh-single"
+        },
+        {
+          "title": "Prayer Song",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/1998/05/11/prayer-song/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/prayer-song-single"
+        },
+        {
+          "title": "Now is the New Now",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/1998/09/04/the-future-is-now/",
+          "bandcamp_url": ""
+        },
+        {
+          "title": "Kaleidoscope Memories",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "https://ipoem.co.uk/2020/02/02/kaleidoscope-memories-published-in-the-pluralist-no-issue-beyond-reason/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/self-mastery-single"
+        },
+        {
+          "title": "Elixir of Love",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/elixir-of-love-single"
+        },
+        {
+          "title": "WLTM GSOH Bonus",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-18",
+          "summary_url": "",
+          "bandcamp_url": ""
+        }
+      ]
+    },
+    {
+      "title": "Joy Smile",
+      "type": "Single",
+      "genre": "Drum n Bass",
+      "songs": [
+        {
+          "title": "Joy Smile",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-19",
+          "summary_url": "https://ipoem.co.uk/1997/03/17/joy-smile/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/joy-smile-single"
+        }
+      ]
+    },
+    {
+      "title": "Praxis",
+      "type": "Single",
+      "genre": "Ambient Chill",
+      "songs": [
+        {
+          "title": "Praxis",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-19",
+          "summary_url": "https://ipoem.co.uk/2023/01/21/praxis/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/praxis-single"
+        }
+      ]
+    },
+    {
+      "title": "Self Mastery",
+      "type": "Single",
+      "genre": "Ambient Chill",
+      "songs": [
+        {
+          "title": "Self Mastery",
+          "catalogue_number": "℗ 9562461 Records DK",
+          "release_date": "2025-05-19",
+          "summary_url": "https://ipoem.co.uk/2020/02/02/kaleidoscope-memories-published-in-the-pluralist-no-issue-beyond-reason/",
+          "bandcamp_url": "https://catcatalyst.bandcamp.com/track/self-mastery-single"
+        }
+      ]
+    }
+  ]
+}
