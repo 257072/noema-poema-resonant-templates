@@ -5,6 +5,7 @@
     "description": "Index of all tokenised poems and songs curated for the Noēma Poēma collection. This file provides a central reference for future collaborators and AIs to locate source texts, summaries, and song connections.",
     "total_entries": 18,
     "last_updated": "2025-10-29"
+    "full_metadata_file": "music_metadata.json"
   },
   "entries": [
     { "file": "11_Joy_Smile_tokenised.json", "title": "Joy Smile", "date": "1997-03-17" },
